@@ -1,13 +1,10 @@
-package main
+package 입출력과_사칙연산
 
 import (
 	"fmt"
 )
 
 func main() {
-	//var a string
-	//fmt.Scan(&a)
-
 	fmt.Println("\\    /\\")
 	fmt.Println(" )  ( ')")
 	fmt.Println("(  /  )")
